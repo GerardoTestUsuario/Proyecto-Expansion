@@ -1,3 +1,5 @@
 Este es otro archivo, estamos en RAMA_ALTERNATIVA
 Aquí estaría comenzando una narrativa, que se va a estructurar en ramas. 
+Ya deberían verse cambios en header y footer, y estaríamos comenzando 
+a contar una historia. 
 

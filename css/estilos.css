@@ -4,3 +4,22 @@ body {
     font-family: "Arial";
     font-size: 14px;
 }
+#encabezado{
+    color: fuchsia;
+    font-family: "courier";
+    font-size: 20px;
+}
+#content
+{
+    color:black;
+    font-family:"Verdana";
+    text-align: left;
+    font-size: 15px;
+}
+#footer
+{
+    color: firebrick;
+    font-family:"Verdana";
+    text-align: center;
+    font-size: 18px;
+}
