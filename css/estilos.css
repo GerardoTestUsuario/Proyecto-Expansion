@@ -13,5 +13,15 @@ body {
     border-width: 1px;
     border-style: dotted;
     background-color:darkslategray;
+}
+#encabezado
+{
+    color: whitesmoke;
+    font-family:"Arial";
+    text-align: center;
+    font-size: 18px;
+    border-width: 1px;
+    border-style: dotted;
+    background-color:royalblue;
 
 }
