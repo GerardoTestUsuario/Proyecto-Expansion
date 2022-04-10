@@ -1,0 +1,4 @@
+* 09/04/2022
+Soy Gustavo Ibarra que está en Git Bash, inicio un log, voy a trabajar 
+con el footer
+
